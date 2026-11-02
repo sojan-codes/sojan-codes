@@ -10,16 +10,6 @@ I'm a CSIT student interested in backend development, software engineering, and 
 - Practicing Data Structures & Algorithms.
 - Building projects and improving my problem-solving skills.
 
-### Tech Stack
-
-**Languages:** Python, JavaScript, HTML, CSS
-
-**Backend:** Django, Django REST Framework
-
-**Frontend:** React.js, Tailwind CSS, Framer Motion
-
-**Tools:** Git, GitHub, VS Code
-
 ### Connect With Me
 - GitHub: https://github.com/sojan-codes
 - Email: sojanshakyaa@gmail.com
