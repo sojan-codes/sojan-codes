@@ -1,4 +1,4 @@
-# Hi, I'm Sojan.
+### Hi, I'm Sojan.
 
 **Computer Science Student | Aspiring Backend Developer**
 
