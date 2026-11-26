@@ -11,7 +11,6 @@ I'm a CSIT student interested in backend development, software engineering, and 
 - Building projects and improving my problem-solving skills.
 
 ### Connect With Me
-- GitHub: https://github.com/sojan-codes
 - Email: sojanshakyaa@gmail.com
 
 ---
